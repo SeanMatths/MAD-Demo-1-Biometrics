@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo1</string>
+    <string name="authenticate_me">Authenticate me</string>
+    <string name="you_can_only_see_me_if_your_biometrics_have_been_authenticated">You can only see me if your Biometrics have been authenticated</string>
+</resources>
