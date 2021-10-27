@@ -10,7 +10,7 @@
 1. Click the three dots in the toolbar next to the emulator's display
 2. Select ```FingerPrint``` from the options on the left
 3. Click the ```Finger``` dropdown and select the fingerprint to use
-4. Clikc the ```Touch Sensor``` button to simulate touching the sensor with the selected finger
+4. Click the ```Touch Sensor``` button to simulate touching the sensor with the selected finger
 
 ## Creating a biometric prompt in your app
 1. Add the biometric permission to the ```AndroidManifest.xml``` file
